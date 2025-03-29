@@ -40,6 +40,6 @@ Esta aplicación para colegios permite a los maestros ingresar y gestionar las n
 
    ```bash
    git clone https://github.com/Alexander1251/DesafioDSM2.git
-)
+
 
 Alumno: Cristian Alexander Alfaro Hernández AH211671

@@ -1,0 +1,18 @@
+<resources>
+    <string-array name="grades">
+        <item>1°</item>
+        <item>2°</item>
+        <item>3°</item>
+        <item>4°</item>
+        <item>5°</item>
+        <item>6°</item>
+    </string-array>
+
+    <string-array name="subjects">
+        <item>Matemáticas</item>
+        <item>Lenguaje</item>
+        <item>Ciencias</item>
+        <item>Historia</item>
+        <item>Geografía</item>
+    </string-array>
+</resources>

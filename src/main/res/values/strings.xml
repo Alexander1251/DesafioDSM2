@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Meerkat</string>
+
+    <string name="create_student">Registrar Estudiante</string>
+    <string name="student_list">Lista de Estudiantes</string>
+    <string name="logout">Cerrar Sesión</string>
+
+
+    <!-- Pantallas / descripciones -->
+    <string name="login_screen_desc">Pantalla de Login</string>
+    <string name="create_student_screen_desc">Pantalla para crear estudiante</string>
+    <string name="student_list_screen_desc">Pantalla de lista de estudiantes</string>
+    <string name="student_list_recycler_desc">Lista de estudiantes</string>
+    <string name="update_student_screen_desc">Pantalla para actualizar estudiante</string>
+    <string name="student_item_card_desc">Tarjeta de estudiante</string>
+    <string name="student_info_placeholder">Información del estudiante</string>
+    <string name="grade_spinner_desc">Selecciona un grado</string>
+    <string name="subject_spinner_desc">Selecciona una materia</string>
+    <string name="invalid_grade">La nota debe estar entre 0 y 10</string>
+    <!-- Campos y botones -->
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="first_name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="final_grade">Nota final</string>
+    <string name="save">Guardar</string>
+    <string name="update">Actualizar</string>
+    <string name="delete">Eliminar</string>
+
+    <!-- Mensajes -->
+    <string name="login_success">Inicio de sesión exitoso</string>
+    <string name="error_occurred">Ocurrió un error</string>
+    <string name="invalid_fields">Por favor, completa todos los campos</string>
+    <string name="registration_success">Registro exitoso</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358834462079",
+    "project_id": "meerkat-88149",
+    "storage_bucket": "meerkat-88149.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358834462079:android:306ed762a20c88d0b00e4a",
+        "android_client_info": {
+          "package_name": "com.example.meerkat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrqq05zsI3FLfWrF7xySAAckoL0mYmXnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
